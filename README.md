@@ -1,1 +1,2 @@
 # Diagnosis-and-Treatment-Gaps
+Analyzed NHANES 2013–2014 data from 6,113 U.S. adults to examine age-related gaps between clinically identified diabetes, hypertension, and dyslipidemia and reported diagnosis and treatment, finding substantially larger diagnosis and treatment gaps among younger adults, with clinically elevated hypertension in ages 18–29 associated with 5.5-fold higher odds of being undiagnosed than in adults aged 65+.
